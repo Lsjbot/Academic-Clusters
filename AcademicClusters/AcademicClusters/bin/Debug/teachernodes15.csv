@@ -1,0 +1,520 @@
+Id;Label;Color
+0;Anna Anåker;#00FF00
+1;Inger Lundberg Santesson;#505050
+2;Ulla Gunnarsson;#505050
+3;Ginger Selander;#505050
+4;Maria Moberg;#505050
+5;Marianne Spante;#505050
+6;Marika Marusarz;#00FF00
+7;Fredrik Karlsson;#0000FF
+8;Markku Jääskeläinen;#505050
+9;Mats Anderson;#505050
+10;Anton Grenholm;#505050
+11;Susanne Antell;#505050
+12;Jan Florin;#00FF00
+13;Ann-Sofie Källberg;#00FF00
+14;Anncarin Svanberg;#00FF00
+15;Annika Schmöker;#505050
+16;Birgitta Jönsson;#00FF00
+17;Mari-Cristin Malm;#00FF00
+18;Maria Forsner;#00FF00
+19;Anna Swall;#00FF00
+20;Doris Hägglund;#505050
+21;Ingrid From;#00FF00
+22;Susanna Nordin;#00FF00
+23;Anna Larsveden;#505050
+24;Carin Tärestam;#505050
+25;Ellen Borch;#505050
+26;Gunilla Oscarsdotter;#505050
+27;Lovisa Furingsten;#505050
+28;Maria Neljesjö;#505050
+29;Monika Jansson;#505050
+30;Ulrika Norling;#505050
+31;Emelie Hebert;#505050
+32;Margaretha Engwall;#505050
+33;Martina Algotsson;#505050
+34;Sefija Melkic Larsson;#505050
+35;Peter Nilsson;#00FF00
+36;Olivia Örtlund;#505050
+37;Susanne Koistinen;#00FF00
+38;Elisabeth Nerpin;#00FF00
+39;Helena Willman;#505050
+40;Mathias Andersson;#505050
+41;Marika Hagelberg;#505050
+42;Peter Enström;#505050
+43;Janeth Leksell;#00FF00
+44;Christina Pedersen;#505050
+45;Marie Elf;#00FF00
+46;Ninni Wallfelt;#505050
+47;Anneli Bergström;#505050
+48;Ingegerd Strömkvist;#505050
+49;Tobias Rudholm Feldrich;#00FF00
+50;Lena Marmstål Hammar;#00FF00
+51;Elisabeth Karlströms-Rosell;#505050
+52;Ola Nääs;#505050
+53;Reneé Flacking;#00FF00
+54;Linnea Gustafsson;#505050
+55;Emma Hawke;#00FF00
+56;David Wallefelt;#505050
+57;Helena Fridberg;#00FF00
+58;Michail Tonkonogi;#00FF00
+59;Maria Nilsson;#505050
+60;Anna Cristina Åberg;#00FF00
+61;Ylva Cedervall;#505050
+62;Kevin Mckee;#00FF00
+63;Anna Ehrenberg;#00FF00
+64;Åsa Bergman Bruhn;#505050
+65;Anders Arnqvist;#505050
+66;Monika Vinterek;#00FFFF
+67;Alessandro Aresti;#505050
+68;Vera Nigrisoli Wärnhjelm;#0000FF
+69;Gianluca Colella;#0000FF
+70;Anders Avdic;#FFFF00
+71;Ulrika Wissa Artursson;#505050
+72;Mathias Hatakka;#FFFF00
+73;Leif Åkerblom;#505050
+74;Wei Song;#FFFF00
+75;Anders Forsman;#505050
+76;Astrid Widén-Alnås;#505050
+77;Johan Heier;#FF0000
+78;Mats Rönnelid;#FF0000
+79;Tomas Persson;#FF0000
+80;Per Wallén;#505050
+81;Lars Karlsson;#FF00FF
+82;Roger Hjortendahl;#505050
+83;Klaus Lorenz;#FF0000
+84;Marie Moström Åberg;#505050
+85;Karl W Sandberg;#FFFF00
+86;Karl Gummesson;#505050
+87;Pia Wallén;#505050
+88;Hans Ersson;#505050
+89;Pasi Juujärvi;#505050
+90;Jesper Engström;#505050
+91;Åsa Bartholdsson;#00FF00
+92;Carina Bååth;#505050
+93;Sara Klingberg Fridner;#505050
+94;Joyce Kemuma;#0000FF
+95;Susanne Rosén;#505050
+96;Eva Hultin;#00FFFF
+97;Hed Kerstin Larsson;#00FFFF
+98;Kristine Ohrem Andersers;#505050
+99;Sanna Bäcke;#505050
+100;Lottie Lofors-Nyblom;#00FFFF
+101;Roger Melin;#0000FF
+102;Helena Grundén;#00FFFF
+103;Johan Åkerstedt;#505050
+104;Magnus Fahlström;#FFFF00
+105;Anna Åkerstedt (Björk);#505050
+106;Lars Krantz;#505050
+107;Patrik Larsson;#0000FF
+108;Cecilia Wijnbladh;#505050
+109;Hans Söderström;#505050
+110;Kerstin Ahlberg;#505050
+111;Johnny Wingstedt;#0000FF
+112;Åsa Wedin;#0000FF
+113;Berit Lundgren;#00FFFF
+114;Lena Åström;#505050
+115;Bethanne Yoxsimer Paulsrud;#505050
+116;Jonathan Russell White;#0000FF
+117;Lennart Berg;#505050
+118;Ingela Spegel Nääs;#505050
+119;Kristofer Sidenvall;#505050
+120;Anders Persson;#505050
+121;Annie-Maj Johansson;#00FFFF
+122;Hannele Junkala;#505050
+123;Terje Hedström;#505050
+124;Jenny Turesson;#505050
+125;Lena Skoglund;#00FFFF
+126;Susanne Römsing;#00FFFF
+127;Stefan Larsson;#505050
+128;Jan Morawski;#00FFFF
+129;Robert Thorp;#00FFFF
+130;Gull Törnegren;#0000FF
+131;Göran Morén;#505050
+132;Maria Olson;#00FFFF
+133;Gunilla Lindqvist;#00FFFF
+134;Solveig Ahlin;#505050
+135;Sören Högberg;#00FFFF
+136;David Gray;#0000FF
+137;Eva-Lena Erixon;#505050
+138;Stefan Jonsson;#505050
+139;Margareta Berglund;#505050
+140;Maria Olsson;#00FFFF
+141;Desiree Von Ahlefeld Nisser;#00FFFF
+142;Mats Lundgren;#00FFFF
+143;Anna Teledahl;#00FFFF
+144;Johanne Maad;#00FFFF
+145;Andreas Hårrskog;#505050
+146;Åke Hestner;#505050
+147;Jonas Jäder;#505050
+148;Lars Båtefalk;#0000FF
+149;Peter Reinholdsson;#0000FF
+150;Hanna Trotzig;#505050
+151;Emma Knutsson;#505050
+152;Jeff Gracie;#505050
+153;Jan Olsson;#00FFFF
+154;Åsa Mattsson;#505050
+155;Marianne Pettersson;#505050
+156;Jennie Warström;#505050
+157;Katharina Davidsson;#505050
+158;Ida Josefsson;#505050
+159;Maria Fredriksson Sjöberg;#00FFFF
+160;Margareta Litsmark Forsgren;#505050
+161;Åsa Pettersson;#0000FF
+162;Cecilia Strandroth;#0000FF
+163;Monika Stridfeldt;#0000FF
+164;Nina Bengtsson;#505050
+165;Andreas Isgren Karlsson;#505050
+166;Erik Backman;#00FFFF
+167;Anna Maria Dahlén;#505050
+168;Yvonne Blomberg;#0000FF
+169;Therese Rodin;#0000FF
+170;Aranzazu Santos Muñoz;#0000FF
+171;Sara Nittve;#0000FF
+172;Elisabet Odevik;#505050
+173;Boglárka Straszer;#0000FF
+174;Christian Hecht;#0000FF
+175;Irma Vaarala;#505050
+176;Isabel De La Cuesta;#0000FF
+177;Carolina Leon Vegas;#0000FF
+178;Pierre Andersson;#0000FF
+179;Gudrun Brundin;#0000FF
+180;Anneli Fjordevik;#0000FF
+181;Charlotte Lindgren;#0000FF
+182;Johanna Gustafsson-Lundberg;#505050
+183;Anders Bornhäll;#FFFF00
+184;Sven-Olov Daunfeldt;#FFFF00
+185;Oana Mihaescu;#505050
+186;Niklas Rudholm;#FFFF00
+187;Daniel Wikström;#FFFF00
+188;Jennie Vinter;#505050
+189;Ann Catrine Eldh;#00FF00
+190;Lars Wallin;#00FF00
+191;Henrietta Forsman;#00FF00
+192;Kerstin Öhrn;#00FF00
+193;Lena Olai;#00FF00
+194;Malin Tistad;#00FF00
+195;Ann Rudman;#505050
+196;Alex Dos Santos Pruth;#505050
+197;Mario Semiao;#0000FF
+198;Alda Maria Lentina;#0000FF
+199;Rieko Saito;#505050
+200;Masako Hayakawa Thor;#505050
+201;Yoko Mizufune;#505050
+202;Hiroko Inose;#0000FF
+203;Mario Lopez-Cordero;#505050
+204;Alexandra Eilegård Wallin;#00FF00
+205;Malin Lövgren;#505050
+206;Ulrika Förberg;#505050
+207;Pernilla Liedgren;#505050
+208;Gudrun Elvhage;#505050
+209;Christian Kullberg;#505050
+210;Eva Österlund Efraimsson;#505050
+211;Anna Emmoth;#505050
+212;Jörgen Elbe;#FFFF00
+213;Amanda Frank;#00FF00
+214;Gunilla Carstensen;#0000FF
+215;Jessica Wide;#0000FF
+216;Memedi Mevludin;#505050
+217;Hans Rosendahl;#505050
+218;Maren Eckart (Jönsson);#0000FF
+219;Chatarina Edfeldt;#0000FF
+220;Mattias Aronsson;#0000FF
+221;Sören Johansson;#505050
+222;Åsa Grek;#FFFF00
+223;Fredrik Hartwig;#FFFF00
+224;Helena Bellardini;#505050
+225;Linda Vixner;#00FF00
+226;Mariya Aida Niendorf;#0000FF
+227;Malin Roitman;#0000FF
+228;Pär Douhan;#505050
+229;Yangfan Hultgren;#505050
+230;Tao Yang;#505050
+231;Nicola Nerström;#505050
+232;Lovisa Berg;#0000FF
+233;Veronica De Majo;#505050
+234;Kjetil Duvold;#0000FF
+235;Carles Magriñá Badiella;#0000FF
+236;Bosse Thorén;#0000FF
+237;Nigar Sadig;#505050
+238;christina von post;#505050
+239;Madelene Johansen;#505050
+240;Samira Hennius;#0000FF
+241;Jenny Rosén;#505050
+242;Fadi Abou Dib;#505050
+243;Marit Halldén;#505050
+244;Anna Karin Fändrik;#505050
+245;Nejood Al-Rubaye;#0000FF
+246;Ann Gustafsson;#505050
+247;Maria Boström;#505050
+248;Ann Hedlund;#FFFF00
+249;Ing-Marie Andersson;#FFFF00
+250;Gunnar Rosén;#505050
+251;Nina Fällstrand Larsson;#505050
+252;Alexis Rydell;#FFFF00
+253;Annette Henning;#FF0000
+254;Christopher Michel Bales;#505050
+255;Emmanouil Psimopoulos;#FF0000
+256;Frank Fiedler;#FF0000
+257;Marie-Désirée Kroner;#505050
+258;Stefano Poppi;#FF0000
+259;Sarah Ramsay;#505050
+260;Ewa Wäckelgård;#FF0000
+261;Caroline Maria Bastholm;#FF0000
+262;Anders Henriksson;#505050
+263;Emelie Westergren;#505050
+264;Frej Hallgren;#505050
+265;Gunn Nyberg;#00FFFF
+266;Johnny Nilsson;#505050
+267;Anders Hurtig;#505050
+268;Maria Gräfnings;#505050
+269;Zuzana Macuchova;#FFFF00
+270;Joacim Larsson Von Garaguly;#FFFF00
+271;Monica Sandbacka;#505050
+272;Ioanna Farsari;#FFFF00
+273;Albina Pashkevich;#FFFF00
+274;Jonathan M Yachin;#FFFF00
+275;Daniel Brandt;#FFFF00
+276;Anna Klerby;#505050
+277;Tobias Heldt;#FFFF00
+278;Mohammad Parhizgar;#505050
+279;Anders Lindström;#505050
+280;Claes Hellqvist;#505050
+281;Eva Stattin;#FF0000
+282;Daniel Gräns;#505050
+283;Elisabeth Wallin;#FF0000
+284;Alexander Karlsson;#505050
+285;Michael Nilsson;#505050
+286;Paul Katsivelis;#505050
+287;Gustav Boklund;#505050
+288;Åsa Svensson;#505050
+289;Björn Andersson;#505050
+290;Carin Nordström;#FFFF00
+291;Andre Leblanc;#0000FF
+292;Irene Gilsenan Nordin;#505050
+293;Hu Lung-Lung;#0000FF
+294;Herbert Jonsson;#0000FF
+295;Susanna Cassel Heldt;#FFFF00
+296;Anders Mattsson;#505050
+297;Marco Hernandez Velasco;#FF0000
+298;Anna Munters;#505050
+299;Inger Lindqvist;#505050
+300;Daniel Olsson;#505050
+301;Kerstin Erlandsson;#00FF00
+302;Andrew Scott;#505050
+303;Totte Mattsson;#0000FF
+304;Henrik Carlsson;#505050
+305;Berk Sirman;#0000FF
+306;Mikael Strömberg;#505050
+307;Daniel Fredriksson;#505050
+308;Erika Iljero;#505050
+309;Johanna Rosenblad;#505050
+310;Tanja Jörgensen;#505050
+311;Johan Nordin;#505050
+312;Joel Dittrich;#0000FF
+313;Daniel Beckman;#505050
+314;Mikael Jorhult;#505050
+315;Sten Sundin;#505050
+316;Christer Malmgren;#505050
+317;Thomas Florén;#0000FF
+318;Henrik Stub;#505050
+319;Torbjörn Allard;#505050
+320;Håkan Holmberg;#505050
+321;Therese Herkules;#505050
+322;Thorbjörn Swenberg;#0000FF
+323;Ingrid Jonsson Wallin;#0000FF
+324;Martin Sandström Rimsbo;#505050
+325;Joachim Bergenstråhle;#0000FF
+326;Diana Walve;#505050
+327;Daniel Wallentin;#505050
+328;Per-Erik Eriksson;#0000FF
+329;Sven Hansell;#0000FF
+330;Per Axel Grigor;#505050
+331;Árni Sverrisson;#505050
+332;Mengjie Han;#FFFF00
+333;Mårten Hugosson;#FFFF00
+334;Bengt Pontén;#505050
+335;Andrea Schwachenwald;#505050
+336;Asif Huq;#FFFF00
+337;Åsa Lang;#505050
+338;Lena Dahlberg;#00FF00
+339;Aili Tang;#505050
+340;Lovisa Sumpter;#505050
+341;Eva Taflin;#00FFFF
+342;Maria Bjerneby Häll;#505050
+343;Sori Rasti;#505050
+344;Billy Gray;#0000FF
+345;Katherina Dodou;#0000FF
+346;Carmen Zamorano Llena;#0000FF
+347;Birgitta Nilsson;#505050
+348;Carl Olsmats;#FFFF00
+349;Fatumo Osman;#00FF00
+350;Christian Kok Nielsen;#505050
+351;Marcus Gustafsson;#FF0000
+352;Jonn Are Myhren;#FF0000
+353;Catia Cialani;#FFFF00
+354;Maria Wallinder;#FF0000
+355;Karin Perman;#505050
+356;Kaung Myat Win;#505050
+357;Reza Mortazavi;#FFFF00
+358;Christiane Ederyd Engelbert;#505050
+359;Madeleine Perrault;#505050
+360;Christina Engström;#505050
+361;Peter Möller;#505050
+362;Maria Thulemark;#FFFF00
+363;Changli He;#505050
+364;Xiangli Meng;#505050
+365;Peter Jansson;#00FF00
+366;Hugues Engel;#505050
+367;Olga Mattsson;#505050
+368;Wei Hing Rosenkvist;#0000FF
+369;Solveig Malmsten;#0000FF
+370;Jenny Lönnemyr;#505050
+371;Catharina Höög Nyström;#0000FF
+372;Sverre Wide;#00FF00
+373;Carl-Olof Bernsand;#505050
+374;Thomas Kvist;#505050
+375;Somayeh Aghanavesi;#FFFF00
+376;Pascal Rebreyand;#FFFF00
+377;Pär Eriksson;#505050
+378;Roger Nyberg;#FFFF00
+379;Xiaoyun Zhao;#FFFF00
+380;Monique Toratti Lindgren;#505050
+381;Ulrika Byrskog;#00FF00
+382;Marie Klingberg Allvin;#00FF00
+383;Magdalena Mattebo;#505050
+384;camilla udo;#00FF00
+385;Marie Olsen;#00FF00
+386;Camilla Söderberg;#505050
+387;Chuan-Zhong Li;#505050
+388;Gunnar Isaksson;#505050
+389;Dick Åhman;#505050
+390;Urban Claesson;#00FFFF
+391;Jerker Westin;#FFFF00
+392;Hasan Fleyeh;#FFFF00
+393;Md Moudud Alam;#FFFF00
+394;Kristin Svenson;#505050
+395;Kenneth Carling;#FFFF00
+396;Yujiao Li;#505050
+397;Ilias Thomas;#FFFF00
+398;Magnus Bohlin;#FFFF00
+399;Marianne Liljas Juvas;#0000FF
+400;Daniel Hammarström;#505050
+401;Magnus Carlsson;#00FF00
+402;Tomas Carlsson;#00FF00
+403;Jens Westergren;#505050
+404;Majbritt Felleki;#505050
+405;Diala Jomaa;#505050
+406;Mark Dougherty;#FFFF00
+407;Siril Yella;#FFFF00
+408;Karin Edvardsson;#505050
+409;Ingrid Grosse;#0000FF
+410;Rina Maria Navarro Viadana;#505050
+411;Daniel Silander;#505050
+412;Mats Öhlén;#505050
+413;Elisabeth Åsenius Ahnberg;#505050
+414;Johan Kostela;#505050
+415;Håkan Larsson;#505050
+416;Emil Gustafsson;#505050
+417;Erik Hedlund;#505050
+418;Kumar Babu Surreddi;#FF00FF
+419;Eva Hämberg;#505050
+420;Thomas Sedelius;#00FF00
+421;Maria Westman;#505050
+422;Sara Irisdotter Aldenmyr;#00FFFF
+423;Elisabeth Jobs;#00FF00
+424;Magnus Jobs;#00FF00
+425;Johan Ärnlöv;#00FF00
+426;Erik Lundberg;#505050
+427;Eva-Lena Embretsen;#505050
+428;Jan Svärdhagen;#505050
+429;Napolion Edgar Asiimwe;#505050
+430;Sana Zubair Khan;#505050
+431;Eva Randell;#00FF00
+432;Erica Schytt;#00FF00
+433;Helena Danielsson;#505050
+434;Harald Svedung;#505050
+435;Farhana Borg;#505050
+436;Ulla-Karin Schön;#00FF00
+437;Frida Splendido;#505050
+438;Göran Engberg;#FF00FF
+439;Karin Yvell;#FF00FF
+440;Jessica Gyhlesten Back;#FF00FF
+441;Giulia Messina Dahlberg;#505050
+442;Olga Viberg;#505050
+443;Gunnar Ternhag;#505050
+444;Gun-Marie Wetso;#505050
+445;Hans-Edy Mårtensson;#505050
+446;Hans Jones;#505050
+447;Louise Trygg;#505050
+448;Mattias Gradén;#505050
+449;Marit Ragnarsson;#505050
+450;Karl Hansson;#505050
+451;Therese Granström;#00FF00
+452;Jenny Isberg;#00FFFF
+453;Hanna Hodacs;#0000FF
+454;Mayumi Senoo;#505050
+455;Henrik Janols;#FF0000
+456;Tina Wik;#505050
+457;Miyoko Inoue;#505050
+458;Helena Lindgren;#505050
+459;Helena Nilsson;#505050
+460;Helén Olsson;#00FF00
+461;Ulf Kassfeldt;#505050
+462;Ali Joudi;#505050
+463;Lars Berge;#0000FF
+464;Ibro Ribic;#505050
+465;Sofia Brorsson;#505050
+466;Iris Ridder;#0000FF
+467;Nadezda Lebedeva;#00FFFF
+468;Ina Amalia Von Schantz Lundgren;#505050
+469;Ulf Nytell;#505050
+470;Jenny Åberg;#0000FF
+471;Thomas Olofsson;#505050
+472;Martin Bergdahl;#FF0000
+473;Jonas Edberg;#505050
+474;Michael Lindgren;#505050
+475;Lars-Erik Lindgren;#505050
+476;Jennie Svensson;#505050
+477;Voicu Brabie;#505050
+478;Jürgen Hartmann;#505050
+479;Ulf Bexell;#FF00FF
+480;Mikael Olsson;#FF00FF
+481;Petter Börjesson;#505050
+482;Johan Håkansson;#FFFF00
+483;Lars Rönnegård;#FFFF00
+484;Madelen Lagin;#FFFF00
+485;Maria Svedbo Engström;#00FF00
+486;Tammy Blom;#505050
+487;Lars Wedholm;#505050
+488;Josefin Hall;#FF00FF
+489;Joacim Svensson;#505050
+490;Robert Andersson;#505050
+491;Taha Khan;#505050
+492;Mauro Schiavella;#505050
+493;Katarina Grim;#00FF00
+494;Rolf Magnusson;#505050
+495;Li Na;#505050
+496;Yagiz Azizoglu;#FF00FF
+497;Liselotte Frisk;#0000FF
+498;Sanja Nilsson;#0000FF
+499;Peter Åkerbäck;#505050
+500;Yuan-Yuan Wu;#505050
+501;Man Gao;#0000FF
+502;Lena Wilhelmson;#505050
+503;Maria Petersson;#505050
+504;Thomas Thydén;#505050
+505;Mats Landström;#505050
+506;Mikael Berg;#505050
+507;Magnus Knutsson;#505050
+508;Mats Olsson;#505050
+509;Sverker Johansson;#0000FF
+510;Mikael Fallqvist;#505050
+511;Mikael Grehk;#505050
+512;Mats Lundmark;#505050
+513;Nima Nosar Safara;#FF00FF
+514;Sara Saketi;#FF00FF
+515;Thomas Nygren;#505050
+516;Steven Saxonberg;#505050
+517;Torsten Hylén;#0000FF
+518;Tapio Raunio;#505050

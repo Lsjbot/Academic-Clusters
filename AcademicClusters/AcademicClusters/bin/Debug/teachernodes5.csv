@@ -1,0 +1,612 @@
+Id;Label
+0;Anna Anåker
+1;Inger Lundberg Santesson
+2;Ulla Gunnarsson
+3;Ginger Selander
+4;Maria Moberg
+5;Marianne Spante
+6;Marika Marusarz
+7;Fredrik Karlsson
+8;Markku Jääskeläinen
+9;Mats Anderson
+10;Anton Grenholm
+11;Susanne Antell
+12;Marie Elf
+13;Susanna Nordin
+14;Maria Nilsson
+15;Li Na
+16;Anna Cristina Åberg
+17;Changli He
+18;Ylva Cedervall
+19;Per Dahl
+20;Vilmantas Giedraitis
+21;Mikael Berglund
+22;Hans Rosendahl
+23;Kevin Mckee
+24;Anna Ehrenberg
+25;Ingrid From
+26;Åsa Bergman Bruhn
+27;Anders Arnqvist
+28;Monika Vinterek
+29;Alessandro Aresti
+30;Vera Nigrisoli Wärnhjelm
+31;Gianluca Colella
+32;Anders Avdic
+33;Ulrika Wissa Artursson
+34;Mathias Hatakka
+35;Leif Åkerblom
+36;Wei Song
+37;Anders Forsman
+38;Astrid Widén-Alnås
+39;Johan Heier
+40;Mats Rönnelid
+41;Tomas Persson
+42;Åsa Bartholdsson
+43;Carina Bååth
+44;Sara Klingberg Fridner
+45;Joyce Kemuma
+46;Susanne Rosén
+47;Eva Hultin
+48;Hed Kerstin Larsson
+49;Kristine Ohrem Andersers
+50;Sanna Bäcke
+51;Lottie Lofors-Nyblom
+52;Roger Melin
+53;Johanna Gustafsson-Lundberg
+54;Anders Bornhäll
+55;Sven-Olov Daunfeldt
+56;Oana Mihaescu
+57;Niklas Rudholm
+58;Daniel Wikström
+59;Anneli Bergström
+60;Elisabeth Nerpin
+61;Helena Willman
+62;Mathias Andersson
+63;Marika Hagelberg
+64;Peter Enström
+65;Jan Florin
+66;Janeth Leksell
+67;Anncarin Svanberg
+68;Christina Pedersen
+69;Mari-Cristin Malm
+70;Ninni Wallfelt
+71;Olivia Örtlund
+72;Ulrika Norling
+73;Anna Larsveden
+74;Carin Tärestam
+75;Ingegerd Strömkvist
+76;Lovisa Furingsten
+77;Margaretha Engwall
+78;Martina Algotsson
+79;Sefija Melkic Larsson
+80;Ann-Sofie Källberg
+81;Anna Swall
+82;Doris Hägglund
+83;Elisabeth Karlströms-Rosell
+84;Monika Jansson
+85;Jennie Vinter
+86;Ann Catrine Eldh
+87;Eva Karlsson
+88;Anna Fors
+89;Lars Wallin
+90;Helena Alm
+91;Gabor Bora
+92;Dongyang Qu
+93;Ida Dahlström
+94;Kaung Myat Win
+95;Henrietta Forsman
+96;Ulrika Förberg
+97;Kerstin Öhrn
+98;Mengjie Han
+99;Lena Olai
+100;Birgitta Jönsson
+101;Malin Tistad
+102;Mathias Strandberg
+103;Ann Rudman
+104;Emma Hawke
+105;Pierre Vogel
+106;Catharina Gustavsson
+107;Alex Dos Santos Pruth
+108;Mario Semiao
+109;Alda Maria Lentina
+110;Rieko Saito
+111;Masako Hayakawa Thor
+112;Yoko Mizufune
+113;Hiroko Inose
+114;Mario Lopez-Cordero
+115;Alexandra Eilegård Wallin
+116;Malin Lövgren
+117;Lena Bergkvist
+118;Jonas Edberg
+119;Maria Boström
+120;Katharina Davidsson
+121;Kerstin Göras
+122;Ming Fan
+123;Pernilla Liedgren
+124;Gudrun Elvhage
+125;Christian Kullberg
+126;Sofia Walter
+127;Eva Österlund Efraimsson
+128;Åsa Lang
+129;Anna Emmoth
+130;Jörgen Elbe
+131;Amanda Frank
+132;Tarja Alatalo
+133;Gunilla Carstensen
+134;Jessica Wide
+135;Gunnel Frid
+136;Margareta Persson
+137;Christopher Michel Bales
+138;camilla udo
+139;Lars Rönnegård
+140;Memedi Mevludin
+141;Yuan-Yuan Wu
+142;Håkan Larsson
+143;Anneli Fjordevik
+144;Gudrun Brundin
+145;Maren Eckart (Jönsson)
+146;Chatarina Edfeldt
+147;Mattias Aronsson
+148;Charlotte Lindgren
+149;Sören Johansson
+150;Åsa Grek
+151;Fredrik Hartwig
+152;Linnea Gustafsson
+153;David Wallefelt
+154;Helena Fridberg
+155;Michail Tonkonogi
+156;Tobias Rudholm Feldrich
+157;Helena Bellardini
+158;Linda Vixner
+159;Taha Khan
+160;Jerker Westin
+161;Ann Gustafsson
+162;Christian Hecht
+163;Nigar Sadig
+164;Samira Hennius
+165;christina von post
+166;Bosse Thorén
+167;Sara Nittve
+168;Berit Lundgren
+169;Åsa Wedin
+170;Boglárka Straszer
+171;Elisabet Odevik
+172;Madelene Johansen
+173;Jennie Warström
+174;Marianne Pettersson
+175;Ann Hedlund
+176;Ing-Marie Andersson
+177;Gunnar Rosén
+178;Nina Fällstrand Larsson
+179;Karl Gummesson
+180;Alexis Rydell
+181;Karin Perman
+182;Annette Henning
+183;Emmanouil Psimopoulos
+184;Frank Fiedler
+185;Marie-Désirée Kroner
+186;Caroline Maria Bastholm
+187;Anders Henriksson
+188;Emelie Westergren
+189;Frej Hallgren
+190;Gunn Nyberg
+191;Johnny Nilsson
+192;Anders Hurtig
+193;Erik Backman
+194;Andreas Hårrskog
+195;Åke Hestner
+196;Johan Åkerstedt
+197;Jonas Jäder
+198;Magnus Fahlström
+199;Emma Knutsson
+200;Jeff Gracie
+201;Maria Olsson
+202;Marit Halldén
+203;Peter Nilsson
+204;Annie-Maj Johansson
+205;Hannele Junkala
+206;Terje Hedström
+207;Jenny Turesson
+208;Lena Skoglund
+209;Johanne Maad
+210;Stefan Larsson
+211;Anders Persson
+212;Susanne Römsing
+213;Jan Morawski
+214;Robert Thorp
+215;Andreas Isgren Karlsson
+216;Solveig Ahlin
+217;Zuzana Macuchova
+218;Anna Klerby
+219;Tobias Heldt
+220;Bo Larsson
+221;Mohammad Parhizgar
+222;Lennart Berg
+223;Kristofer Sidenvall
+224;Anna Karin Fändrik
+225;Irma Vaarala
+226;Nicola Nerström
+227;Mats Lundgren
+228;Maria Forsner
+229;Emelie Hebert
+230;Annika Schmöker
+231;Ola Nääs
+232;Reneé Flacking
+233;Ellen Borch
+234;Gunilla Oscarsdotter
+235;Maria Neljesjö
+236;Anders Lindström
+237;Claes Hellqvist
+238;Eva Stattin
+239;Xiaoyun Zhao
+240;Daniel Gräns
+241;Elisabeth Wallin
+242;Zelal Bal
+243;Alexander Karlsson
+244;Michael Nilsson
+245;Paul Katsivelis
+246;Gustav Boklund
+247;Andre Leblanc
+248;Malin Roitman
+249;Monika Stridfeldt
+250;Irene Gilsenan Nordin
+251;Hu Lung-Lung
+252;Herbert Jonsson
+253;Albina Pashkevich
+254;Jonathan M Yachin
+255;Susanna Cassel Heldt
+256;Mats Lundmark
+257;Anders Lagerqvist
+258;Johan Ärnlöv
+259;Anna Maria Dahlén
+260;Hans Söderström
+261;Yvonne Blomberg
+262;Peter Norberg
+263;Anneli Strömsöe
+264;Ann-Marie Mohlin
+265;Johnny Wingstedt
+266;Anders Mattsson
+267;Marco Hernandez Velasco
+268;Klaus Lorenz
+269;Anna Laine
+270;Åsa Mattsson
+271;Kerstin Ahlberg
+272;Lena Åström
+273;Åsa Pettersson
+274;Cecilia Strandroth
+275;Cecilia Wijnbladh
+276;Margareta Berglund
+277;Gull Törnegren
+278;Göran Morén
+279;Anna Munters
+280;Inger Lindqvist
+281;Daniel Olsson
+282;Anna Åkerstedt (Björk)
+283;Lars Krantz
+284;Patrik Larsson
+285;André Lisspers
+286;Frank Sundh
+287;Marie Ericson
+288;Marie Olsen
+289;Andrew Scott
+290;Totte Mattsson
+291;Henrik Carlsson
+292;Berk Sirman
+293;Mikael Strömberg
+294;Daniel Fredriksson
+295;Erika Iljero
+296;Johanna Rosenblad
+297;Tanja Jörgensen
+298;Johan Nordin
+299;Joel Dittrich
+300;Daniel Beckman
+301;Mikael Jorhult
+302;Sten Sundin
+303;Christer Malmgren
+304;Susanne Koistinen
+305;Lena Marmstål Hammar
+306;Lars Båtefalk
+307;Peter Reinholdsson
+308;Hanna Trotzig
+309;Åke Persson
+310;Torbjörn Allard
+311;Håkan Holmberg
+312;Therese Herkules
+313;Thorbjörn Swenberg
+314;Ingrid Jonsson Wallin
+315;Martin Sandström Rimsbo
+316;Joachim Bergenstråhle
+317;Diana Walve
+318;Daniel Wallentin
+319;Per-Erik Eriksson
+320;Sven Hansell
+321;Árni Sverrisson
+322;Joacim Larsson Von Garaguly
+323;Marie Moström Åberg
+324;Karl W Sandberg
+325;Andrea Schwachenwald
+326;Anneli Södergren
+327;Tomas Carlsson
+328;Asif Huq
+329;Annika Selin Larsson
+330;Marie Klingberg Allvin
+331;Lena Dahlberg
+332;Åsa Svensson
+333;Hans Lundh
+334;Aranzazu Santos Muñoz
+335;Pierre Andersson
+336;Aili Tang
+337;Csilla Gál
+338;Xuan Chen
+339;Kalfas Panagiotos-Theodoros
+340;Tao Yang
+341;Yu Wang
+342;Anna Teledahl
+343;Jan Olsson
+344;David Gray
+345;Eva-Lena Erixon
+346;Stefan Jonsson
+347;Sören Högberg
+348;Lovisa Sumpter
+349;Eva Taflin
+350;Maria Bjerneby Häll
+351;Jenny Rosén
+352;Bethanne Yoxsimer Paulsrud
+353;Johan Hedman
+354;Sori Rasti
+355;Per Axel Grigor
+356;Björn Andersson
+357;Carin Nordström
+358;Mårten Hugosson
+359;Billy Gray
+360;Katherina Dodou
+361;Carmen Zamorano Llena
+362;Björn Äng
+363;Therese Granström
+364;Björn Hammar
+365;Björn Larsson
+366;Barbara Lees
+367;Ulf Bexell
+368;Jennie Svensson
+369;Voicu Brabie
+370;Birgitta Nilsson
+371;Carl Olsmats
+372;Bengt Pontén
+373;Thomas Florén
+374;Henrik Stub
+375;Fatumo Osman
+376;Katarina Lindahl
+377;Jonathan Russell White
+378;Carl-Axel Norman
+379;Stefano Poppi
+380;Ewa Wäckelgård
+381;Martin Andersen
+382;Christian Kok Nielsen
+383;Lars Thorin
+384;Marcus Gustafsson
+385;Jonn Are Myhren
+386;Josefin Hall
+387;Catia Cialani
+388;Maria Wallinder
+389;Hans-Edy Mårtensson
+390;Christine Eriksson
+391;Reza Mortazavi
+392;Christiane Ederyd Engelbert
+393;Madeleine Perrault
+394;Christina Engström
+395;Peter Möller
+396;Maria Thulemark
+397;Man Gao
+398;Carina Green
+399;Carina Gyll
+400;Kerstin Erlandsson
+401;Md Moudud Alam
+402;Erik Falk
+403;Lars Linder
+404;Satu Sundström
+405;Peter Berggren
+406;Hugues Engel
+407;Erik Leander
+408;Magnus Carlsson
+409;Majbritt Felleki
+410;Daniel Hammarström
+411;Urban Claesson
+412;Kari Jess
+413;Maria Svedbo Engström
+414;Mikael Fallqvist
+415;Mikael Olsson
+416;Megan Case
+417;Jan Wilhelm Lindholm
+418;Katharina Jacobsson
+419;Inger Nylander
+420;Karin Yvell
+421;Xiangli Meng
+422;Magnus Jobs
+423;Maria Olson
+424;Nina Bengtsson
+425;Pernilla Nord
+426;Lena Pettersson
+427;Ulrika Boman
+428;Mauro Schiavella
+429;Eva Bäck
+430;Peter Jansson
+431;Jesper Brunnberg
+432;Olga Mattsson
+433;Wei Hing Rosenkvist
+434;Solveig Malmsten
+435;Jenny Lönnemyr
+436;Catharina Höög Nyström
+437;Sverre Wide
+438;Carolina Leon Vegas
+439;Isabel De La Cuesta
+440;Carles Magriñá Badiella
+441;Karin Holmlund
+442;Roger Johansson
+443;Jill Sirén
+444;Monique Toratti Lindgren
+445;Ulrika Byrskog
+446;Magdalena Mattebo
+447;Jenny Lindkvist
+448;Gunilla Lindqvist
+449;Ingela Spegel Nääs
+450;Camilla Söderberg
+451;Chuan-Zhong Li
+452;Gunnar Isaksson
+453;Dick Åhman
+454;Daniel Brandt
+455;Magnus Bohlin
+456;Helena Grundén
+457;Lovisa Berg
+458;Marianne Liljas Juvas
+459;Zandra Granath
+460;Jens Westergren
+461;Diala Jomaa
+462;Hasan Fleyeh
+463;Mark Dougherty
+464;Siril Yella
+465;Karin Edvardsson
+466;Rina Maria Navarro Viadana
+467;Daniel Silander
+468;Mats Öhlén
+469;Desiree Von Ahlefeld Nisser
+470;Somayeh Aghanavesi
+471;Fredrik Nilsson
+472;Hao Huang
+473;Ilias Thomas
+474;Elisabeth Eliasson
+475;Elisabeth Åsenius Ahnberg
+476;Johan Kostela
+477;Maria Gräfnings
+478;Emil Gustafsson
+479;Lars Karlsson
+480;Eva Hagström
+481;Marcia Markus
+482;Eva Hämberg
+483;Thomas Sedelius
+484;Margareta Litsmark Forsgren
+485;Maria Westman
+486;Sara Irisdotter Aldenmyr
+487;Elisabeth Jobs
+488;Marita Andersson
+489;Erik Lundberg
+490;Eva-Lena Embretsen
+491;Jan Svärdhagen
+492;Napolion Edgar Asiimwe
+493;Sana Zubair Khan
+494;Maria Cederblad
+495;Hans Ersson
+496;Eva Randell
+497;Erik Arén
+498;Tammy Blom
+499;Erica Schytt
+500;Helena Danielsson
+501;Harald Svedung
+502;Erik Westholm
+503;Elin Wester
+504;Fadi Abou Dib
+505;Farhana Borg
+506;Therese Rodin
+507;Fredrik Lindberg
+508;Kenneth Carling
+509;Pascal Rebreyand
+510;Ulla-Karin Schön
+511;Frida Splendido
+512;Fredrik Von Euler
+513;Göran Engberg
+514;Jessica Gyhlesten Back
+515;Mikael Grehk
+516;Ida Josefsson
+517;Maria Fredriksson Sjöberg
+518;Kerstin Hansson
+519;Giulia Messina Dahlberg
+520;Olga Viberg
+521;Gunnar Ternhag
+522;Gun-Marie Wetso
+523;Jan Simer
+524;Martin Johanson
+525;Louise Trygg
+526;Mattias Gradén
+527;Marit Ragnarsson
+528;Karl Hansson
+529;Sofia Brorsson
+530;Jenny Isberg
+531;Hanna Hodacs
+532;David Molnár
+533;Mayumi Senoo
+534;Mariya Aida Niendorf
+535;Hans Jernberg
+536;Henrik Janols
+537;Tina Wik
+538;Miyoko Inoue
+539;Hans Jones
+540;Helena Lindgren
+541;Helena Nilsson
+542;Helén Olsson
+543;Ulf Kassfeldt
+544;Ali Joudi
+545;Ingrid Grosse
+546;Ibro Ribic
+547;Iris Ridder
+548;Nadezda Lebedeva
+549;Yujiao Li
+550;Ina Amalia Von Schantz Lundgren
+551;Ulf Nytell
+552;Jenny Åberg
+553;Thomas Olofsson
+554;Martin Bergdahl
+555;Nian Zhou
+556;Thomas Kvist
+557;Jenny Svärd
+558;Michael Lindgren
+559;Lars-Erik Lindgren
+560;Jenny Fritz
+561;Sofia Hansson
+562;Jürgen Hartmann
+563;Petter Börjesson
+564;Johan Håkansson
+565;Madelen Lagin
+566;Mia Österberg
+567;Jan-Erik Lagergren
+568;Mohammed Tahir
+569;Maria Petersson
+570;Julie Skogs
+571;Veronica Matsson
+572;Lars Wedholm
+573;Sven Israelsson
+574;Jonas Stier
+575;Joacim Svensson
+576;Robert Andersson
+577;Kumar Babu Surreddi
+578;Karin Dahlgren
+579;Katarina Grim
+580;Steven Saxonberg
+581;Lenka Klimplova
+582;Rolf Magnusson
+583;Kristin Svenson
+584;Yagiz Azizoglu
+585;Liselotte Frisk
+586;Sanja Nilsson
+587;Peter Åkerbäck
+588;Per Wallén
+589;Lena Wilhelmson
+590;Marie-Louise Jakobsson
+591;Thomas Thydén
+592;Mats Landström
+593;Mikael Berg
+594;Martina Ladendorf
+595;Magnus Knutsson
+596;Mats Olsson
+597;Roger Nyberg
+598;Yngve Bergqvist
+599;Sverker Johansson
+600;Pär Eriksson
+601;Ulrika Rehnström
+602;Pontus Sjöström
+603;Nima Nosar Safara
+604;Sara Saketi
+605;Thomas Nygren
+606;Pouyan Pirouznia
+607;Pia Eriksson
+608;Pia Wallén
+609;Torsten Hylén
+610;Tapio Raunio

@@ -1,0 +1,319 @@
+Id;Label;Color
+0;HV;#00FF00
+1;omvårdnad;#505050
+2;omvårdnad;#505050
+3;omvårdnad;#505050
+4;omvårdnad;#505050
+5;omvårdnad;#505050
+6;HV;#00FF00
+7;ISTUD;#0000FF
+8;fysik;#505050
+9;maskinteknik;#505050
+10;medicinsk vetenskap;#505050
+11;naturvetenskap;#505050
+12;HV;#00FF00
+13;HV;#00FF00
+14;HV;#00FF00
+15;omvårdnad;#505050
+16;HV;#00FF00
+17;HV;#00FF00
+18;HV;#00FF00
+19;HV;#00FF00
+20;omvårdnad;#505050
+21;HV;#00FF00
+22;HV;#00FF00
+23;omvårdnad;#505050
+24;omvårdnad;#505050
+25;omvårdnad;#505050
+26;omvårdnad;#505050
+27;omvårdnad;#505050
+28;omvårdnad;#505050
+29;omvårdnad;#505050
+30;omvårdnad;#505050
+31;omvårdnad;#505050
+32;men;#505050
+33;omvårdnad;#505050
+34;omvårdnad;#505050
+35;HV;#00FF00
+36;omvårdnad;#505050
+37;HV;#00FF00
+38;HV;#00FF00
+39;medicinsk vetenskap;#505050
+40;medicinsk vetenskap;#505050
+41;medicinsk vetenskap;#505050
+42;medicinsk vetenskap;#505050
+43;HV;#00FF00
+44;srph;#505050
+45;HV;#00FF00
+46;omvårdnad;#505050
+47;omvårdnad;#505050
+48;omvårdnad;#505050
+49;HV;#00FF00
+50;HV;#00FF00
+51;omvårdnad;#505050
+52;statistik;#505050
+53;HV;#00FF00
+54;lgt;#505050
+55;HV;#00FF00
+56;medicinsk vetenskap;#505050
+57;HV;#00FF00
+58;HV;#00FF00
+59;italienska;#505050
+60;ISTUD;#0000FF
+61;ISTUD;#0000FF
+62;kemiteknik;#505050
+63;ESBM;#FF0000
+64;ESBM;#FF0000
+65;ESBM;#FF0000
+66;matematik;#505050
+67;Stål;#FF00FF
+68;energiteknik;#505050
+69;ESBM;#FF0000
+70;arbetsvetenskap;#505050
+71;MD;#FFFF00
+72;kgu;#505050
+73;matematik;#505050
+74;energiteknik;#505050
+75;maskinteknik;#505050
+76;maskinteknik;#505050
+77;pedagogiskt arbete;#00FF00
+78;svenska;#505050
+79;svenska;#505050
+80;pedagogiskt arbete;#0000FF
+81;pedagogiskt arbete;#505050
+82;UL;#00FFFF
+83;UL;#00FFFF
+84;pedagogiskt arbete;#505050
+85;pedagogiskt arbete;#505050
+86;UL;#00FFFF
+87;filosofi;#0000FF
+88;UL;#00FFFF
+89;matematikdidaktik;#505050
+90;matematikdidaktik;#FFFF00
+91;svenska;#505050
+92;svenska;#505050
+93;svenska;#0000FF
+94;svenska;#505050
+95;litteraturvetenskap;#505050
+96;bild;#505050
+97;ISTUD;#0000FF
+98;svenska som andraspråk;#0000FF
+99;UL;#00FFFF
+100;pedagogiskt arbete;#505050
+101;engelska;#505050
+102;engelska;#0000FF
+103;matematikdidaktik;#505050
+104;matematikdidaktik;#505050
+105;matematikdidaktik;#505050
+106;historia;#505050
+107;UL;#00FFFF
+108;naturvetenskap;#505050
+109;naturvetenskap;#505050
+110;naturvetenskap;#505050
+111;UL;#00FFFF
+112;UL;#00FFFF
+113;naturvetenskap;#505050
+114;UL;#00FFFF
+115;UL;#00FFFF
+116;religionsvetenskap;#0000FF
+117;pedagogiskt arbete;#505050
+118;UL;#00FFFF
+119;UL;#00FFFF
+120;idrotts- och hälsovetenskap;#505050
+121;UL;#00FFFF
+122;engelska;#0000FF
+123;matematikdidaktik;#505050
+124;sjn;#505050
+125;pedagogiskt arbete;#505050
+126;UL;#00FFFF
+127;UL;#00FFFF
+128;UL;#00FFFF
+129;UL;#00FFFF
+130;UL;#00FFFF
+131;matematikdidaktik;#505050
+132;matematikdidaktik;#505050
+133;matematikdidaktik;#505050
+134;historia;#0000FF
+135;historia;#0000FF
+136;religionsvetenskap;#505050
+137;matematikdidaktik;#505050
+138;matematikdidaktik;#505050
+139;UL;#00FFFF
+140;bild;#505050
+141;svenska som andraspråk;#505050
+142;svenska som andraspråk;#505050
+143;pedagogiskt arbete;#505050
+144;pedagogiskt arbete;#505050
+145;pedagogiskt arbete;#00FFFF
+146;pedagogiskt arbete;#505050
+147;ISTUD;#0000FF
+148;ISTUD;#0000FF
+149;franska;#0000FF
+150;franska;#505050
+151;idrotts- och hälsovetenskap;#505050
+152;UL;#00FFFF
+153;litteraturvetenskap;#505050
+154;ISTUD;#0000FF
+155;ISTUD;#0000FF
+156;spanska;#0000FF
+157;ISTUD;#0000FF
+158;svenska som andraspråk;#505050
+159;svenska som andraspråk;#0000FF
+160;svenska som andraspråk;#0000FF
+161;svenska;#505050
+162;spanska;#0000FF
+163;ISTUD;#0000FF
+164;ISTUD;#0000FF
+165;ISTUD;#0000FF
+166;tyska;#0000FF
+167;franska;#0000FF
+168;socialt arbete;#505050
+169;portugisiska;#505050
+170;ISTUD;#0000FF
+171;ISTUD;#0000FF
+172;ISTUD;#0000FF
+173;idrotts- och hälsovetenskap;#505050
+174;HV;#00FF00
+175;ISTUD;#0000FF
+176;ISTUD;#0000FF
+177;informatik;#505050
+178;japanska;#505050
+179;kinesiska;#505050
+180;kinesiska;#505050
+181;pedagogiskt arbete;#505050
+182;ISTUD;#0000FF
+183;statsvetenskap;#505050
+184;ISTUD;#0000FF
+185;ISTUD;#0000FF
+186;spanska;#505050
+187;svenska som andraspråk;#0000FF
+188;svenska som andraspråk;#505050
+189;svenska som andraspråk;#505050
+190;svenska som andraspråk;#505050
+191;svenska som andraspråk;#0000FF
+192;svenska som andraspråk;#505050
+193;arabiska;#505050
+194;matematikdidaktik;#505050
+195;pedagogiskt arbete;#505050
+196;ISTUD;#0000FF
+197;ESBM;#FF0000
+198;energiteknik;#505050
+199;ESBM;#FF0000
+200;ESBM;#FF0000
+201;energiteknik;#505050
+202;ESBM;#FF0000
+203;engelska;#505050
+204;ESBM;#FF0000
+205;idrotts- och hälsovetenskap;#505050
+206;idrotts- och hälsovetenskap;#505050
+207;idrotts- och hälsovetenskap;#505050
+208;UL;#00FFFF
+209;idrotts- och hälsovetenskap;#505050
+210;idrotts- och hälsovetenskap;#505050
+211;idrotts- och hälsovetenskap;#505050
+212;pld;#505050
+213;MD;#FFFF00
+214;MD;#FFFF00
+215;MD;#FFFF00
+216;företagsekonomi;#505050
+217;MD;#FFFF00
+218;MD;#FFFF00
+219;MD;#FFFF00
+220;MD;#FFFF00
+221;matematikdidaktik;#505050
+222;grafisk teknologi;#505050
+223;grafisk teknologi;#505050
+224;pkt;#505050
+225;grafisk teknologi;#505050
+226;grafisk teknologi;#505050
+227;företagsekonomi;#505050
+228;MD;#FFFF00
+229;ISTUD;#0000FF
+230;HV;#00FF00
+231;HV;#00FF00
+232;ljud- och musikproduktion;#505050
+233;ISTUD;#0000FF
+234;ljud- och musikproduktion;#505050
+235;ISTUD;#0000FF
+236;ljud- och musikproduktion;#505050
+237;ljud- och musikproduktion;#505050
+238;ljud- och musikproduktion;#505050
+239;ljud- och musikproduktion;#505050
+240;tjr;#505050
+241;ljud- och musikproduktion;#505050
+242;ISTUD;#0000FF
+243;ljud- och musikproduktion;#505050
+244;ljud- och musikproduktion;#505050
+245;ljud- och musikproduktion;#505050
+246;ljud- och musikproduktion;#505050
+247;ljud- och musikproduktion;#505050
+248;ISTUD;#0000FF
+249;ljud- och musikproduktion;#505050
+250;HV;#00FF00
+251;bildproduktion;#505050
+252;bildproduktion;#505050
+253;bildproduktion;#505050
+254;bildproduktion;#0000FF
+255;ISTUD;#0000FF
+256;bildproduktion;#505050
+257;ISTUD;#0000FF
+258;bildproduktion;#505050
+259;bildproduktion;#505050
+260;bildproduktion;#0000FF
+261;ISTUD;#0000FF
+262;bildproduktion;#505050
+263;MD;#FFFF00
+264;MD;#FFFF00
+265;MD;#FFFF00
+266;MD;#FFFF00
+267;arbetsvetenskap;#505050
+268;tyska;#505050
+269;HV;#00FF00
+270;svenska som andraspråk;#505050
+271;svenska som andraspråk;#505050
+272;arbetsvetenskap;#505050
+273;datateknik;#505050
+274;MD;#FFFF00
+275;MD;#FFFF00
+276;informatik;#505050
+277;informatik;#505050
+278;MD;#FFFF00
+279;MD;#FFFF00
+280;srph;#505050
+281;bild;#505050
+282;MD;#FFFF00
+283;MD;#FFFF00
+284;MD;#FFFF00
+285;statistik;#505050
+286;MD;#FFFF00
+287;statistik;#505050
+288;MD;#FFFF00
+289;pedagogiskt arbete;#0000FF
+290;sociologi;#00FF00
+291;statsvetenskap;#505050
+292;sociologi;#0000FF
+293;energiteknik;#505050
+294;materialteknik;#505050
+295;Stål;#FF00FF
+296;HV;#00FF00
+297;fsp;#505050
+298;datateknik;#505050
+299;datateknik;#505050
+300;MD;#FFFF00
+301;ISTUD;#0000FF
+302;japanska;#0000FF
+303;japanska;#505050
+304;ISTUD;#0000FF
+305;japanska;#505050
+306;japanska;#505050
+307;HV;#00FF00
+308;socialt arbete;#505050
+309;HV;#00FF00
+310;ISTUD;#0000FF
+311;turism;#505050
+312;ISTUD;#0000FF
+313;kinesiska;#505050
+314;kinesiska;#0000FF
+315;MD;#FFFF00
+316;MD;#FFFF00
+317;ISTUD;#0000FF

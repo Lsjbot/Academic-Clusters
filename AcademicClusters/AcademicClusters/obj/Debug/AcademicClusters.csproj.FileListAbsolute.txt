@@ -1,0 +1,9 @@
+\\dustaff\home\sja\documents\visual studio 2013\Projects\AcademicClusters\AcademicClusters\bin\Debug\AcademicClusters.exe.config
+\\dustaff\home\sja\documents\visual studio 2013\Projects\AcademicClusters\AcademicClusters\bin\Debug\AcademicClusters.exe
+\\dustaff\home\sja\documents\visual studio 2013\Projects\AcademicClusters\AcademicClusters\bin\Debug\AcademicClusters.pdb
+\\dustaff\home\sja\documents\visual studio 2013\Projects\AcademicClusters\AcademicClusters\obj\Debug\AcademicClusters.csprojResolveAssemblyReference.cache
+\\dustaff\home\sja\documents\visual studio 2013\Projects\AcademicClusters\AcademicClusters\obj\Debug\AcademicClusters.Form1.resources
+\\dustaff\home\sja\documents\visual studio 2013\Projects\AcademicClusters\AcademicClusters\obj\Debug\AcademicClusters.Properties.Resources.resources
+\\dustaff\home\sja\documents\visual studio 2013\Projects\AcademicClusters\AcademicClusters\obj\Debug\AcademicClusters.csproj.GenerateResource.Cache
+\\dustaff\home\sja\documents\visual studio 2013\Projects\AcademicClusters\AcademicClusters\obj\Debug\AcademicClusters.exe
+\\dustaff\home\sja\documents\visual studio 2013\Projects\AcademicClusters\AcademicClusters\obj\Debug\AcademicClusters.pdb
